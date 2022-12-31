@@ -1,0 +1,594 @@
+@media (min-width: 320px) and (max-width: 767px){
+    li.nav-item {
+        background: #000;
+    }
+    .video-area {
+        margin-top: 70px;
+    }
+    .about-area {
+        margin-top: 70px;
+    }
+    .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+        margin-left: 0;
+    }
+    .bannber-text h1 {
+        font-size: 52px;
+    }
+    .bannber-text p {
+        font-size: 15px;
+    }
+    a.slider-btn-two {
+        font-size: 18px;
+        padding: 10px 25px 10px 31px;
+    }
+    a.slider-btn {
+        font-size: 15px;
+        padding: 12px 17px 12px 22px;
+    }
+    .banner-slider .item {
+        padding-top: 240px;
+        padding-bottom: 200px;
+    }
+    .about-topimg img {
+        position: initial;
+        margin-top: 15px;
+    }
+    .about-img {
+        margin-top: 70px;
+    }
+    .Financial-txt i {
+        position: inherit;
+        font-size: 30px;
+        text-align: center;
+        margin: auto;
+    }
+    .Financial-area {
+        text-align: center;
+        margin-top: 21px;
+    }
+    .Financial-txt h4 {
+        margin-bottom: 5px;
+        margin-top: 5px;
+        font-size: 20px;
+    }
+    .Financial-txt p {
+        font-size: 16px;
+        line-height: 25px;
+        letter-spacing: 0;
+        margin: auto;
+    }
+    .logo-box {
+        margin-top: 100px;
+        margin-right: 0;
+        text-align: center;
+    }
+    .logo-bg {
+        padding: 0;
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .logo-pic {
+        margin-bottom: 10px;
+    }
+    .vid-icon {
+        top: 35%;
+        left: 40%;
+    }
+    .vid-text h4 {
+        font-size: 40px;
+        line-height: 30px;
+        margin-bottom: 20px;
+    }
+    .vid-text p {
+        font-size: 18px;
+        margin-bottom: 50px;
+        line-height: 30px;
+    }
+    .Brain-text h4 {
+        margin-bottom: 20px;
+        margin-top: 20px;
+        font-size: 24px;
+        line-height: 0.2em;
+        letter-spacing: -1.24px;
+    }
+    .together-area {
+        margin-top: 50px;
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+    .together-text h1 {
+        text-align: center;
+        margin: auto;
+        font-size: 30px;
+        letter-spacing: 0;
+    }
+    .together-text span {
+        font-size: 18px;
+    }
+    .team p {
+        font-size: 16px;
+    }
+    .team h4 {
+        font-size: 18px;
+        margin-top: 15px;
+        margin-bottom: 5px;
+    }
+    .team-dtl-text p {
+        font-size: 20px;
+        line-height: 30px;
+        letter-spacing: 0.76px;
+        margin-top: 20px;
+    }
+    .team-dtl-text h6 {
+        font-size: 18px;
+        margin-left: 0;
+        margin-top: 10px;
+    }
+    .team-dtl-text span {
+        margin-left: 0;
+        font-size: 14px;
+        line-height: 0px;
+    }
+    .team-dtl {
+        text-align: center;
+    }
+    .team-dtl-text img {
+        position:inherit;
+    }
+    .team-content h2 {
+        margin-bottom: 50px;
+        font-size: 40px;
+        line-height: 20px;
+        letter-spacing: -0.2px;
+    }
+    .blog-img h4 {
+        font-size: 20px;
+        line-height: 20px;
+        margin-bottom: 15px;
+    }
+    .blog-img {
+        margin-bottom: 20px;
+    }
+    .blog-img p {
+        margin: auto;
+    }
+    .work-text h2 {
+        font-size: 32px;
+        line-height: 40px;
+        margin-top: 20px;
+        margin-bottom: 42px;
+    }
+    .con h5 {
+        margin-top: 21px;
+    }
+    .team-content span {
+        font-size: unset;
+        line-height: 26px;
+        margin-bottom: 0px;
+    }
+    
+    .shape4{
+        display: none;
+    }
+    .shape1{
+        display: none;
+    }
+    .shape2{
+        display: none;
+    }
+    .shape3{
+        display: none;
+    }
+    .shape5{
+        display: none;
+    }
+    .shape-i{
+        display: none;
+    }
+
+}
+@media (min-width: 768px) and (max-width: 991px){
+    li.nav-item {
+        background: #000;
+    }
+    .video-area {
+        margin-top: 70px;
+    }
+    .about-area {
+        margin-top: 70px;
+    }
+    .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+        margin-left: 0;
+    }
+    .bannber-text h1 {
+        font-size: 52px;
+    }
+    .bannber-text p {
+        font-size: 15px;
+    }
+    a.slider-btn-two {
+        font-size: 18px;
+        padding: 10px 25px 10px 31px;
+    }
+    a.slider-btn {
+        font-size: 15px;
+        padding: 12px 17px 12px 22px;
+    }
+    .banner-slider .item {
+        padding-top: 240px;
+        padding-bottom: 200px;
+    }
+    .about-topimg img {
+        position: initial;
+        margin-top: 15px;
+    }
+    .about-img {
+        margin-top: 70px;
+    }
+    .Financial-txt i {
+        position: inherit;
+        font-size: 30px;
+        text-align: center;
+        margin: auto;
+    }
+    .Financial-area {
+        text-align: center;
+        margin-top: 40px;
+    }
+    .Financial-txt h4 {
+        margin-bottom: 10px;
+        margin-top: 10px;
+        font-size: 25px;
+    }
+    .Financial-txt p {
+        font-size: 18px;
+        line-height: 25px;
+        letter-spacing: 0px;
+        margin: auto;
+    }
+    .logo-box {
+        margin-top: 100px;
+        margin-right: 0;
+        text-align: center;
+    }
+    .logo-bg {
+        padding: 0;
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .logo-pic {
+        margin-bottom: 10px;
+    }
+    .vid-icon {
+        top: 35%;
+        left: 40%;
+    }
+    .vid-text h4 {
+        font-size: 40px;
+        line-height: 30px;
+        margin-bottom: 20px;
+    }
+    .vid-text p {
+        font-size: 18px;
+        margin-bottom: 50px;
+        line-height: 30px;
+    }
+    .Brain-text h2 {
+        margin-top: 20px;
+    }
+    .Brain-text h4 {
+        margin-bottom: 20px;
+        margin-top: 20px;
+        font-size: 24px;
+        line-height: 0.2em;
+        letter-spacing: -1.24px;
+    }
+    .Brain-text p {
+        font-size: 18px;
+        line-height: 25px;
+        letter-spacing: 0;
+        max-width: 359px;
+        margin: auto;
+    }
+    .together-area {
+        margin-top: 50px;
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+    .together-text h1 {
+        margin: auto;
+        font-size: 30px;
+        max-width: 440px;
+    }
+    .together-text span {
+        font-size: 18px;
+    }
+    .team-t p {
+        margin-bottom: 35px;
+    }
+    .team p {
+        font-size: 16px;
+        margin-bottom: -20px;
+    }
+    .team h4 {
+        font-size: 18px;
+        margin-top: 15px;
+        margin-bottom: 5px;
+    }
+    .team-dtl-text {
+        margin-top: 40px;
+    }
+    .team-dtl-text p {
+        font-size: 20px;
+        line-height: 30px;
+        letter-spacing: 0.76px;
+        margin-top: 20px;
+    }
+    .team-dtl-text h6 {
+        font-size: 18px;
+        margin-left: 0;
+        margin-top: 10px;
+    }
+    .team-dtl-text span {
+        margin-left: 0;
+        font-size: 14px;
+        line-height: 0px;
+    }
+    .team-dtl {
+        text-align: center;
+    }
+    .team-dtl-text img {
+        position:inherit;
+    }
+    .team-content h2 {
+        margin-bottom: 50px;
+        font-size: 40px;
+        line-height: 20px;
+        letter-spacing: -0.2px;
+    }
+    .blog-img h4 {
+        font-size: 20px;
+        line-height: 20px;
+        margin-bottom: 15px;
+    }
+    .blog-img {
+        margin-bottom: 20px;
+    }
+    .blog-img p {
+        margin: auto;
+        margin-bottom: 15px;
+    }
+    .work-text h2 {
+        font-size: 32px;
+        line-height: 40px;
+        margin-top: 20px;
+        margin-bottom: 42px;
+    }
+    .con h5 {
+        margin-top: 21px;
+    }
+    .team-content span {
+        font-size: 15px;
+        margin-top: 10px;
+        margin-bottom: 5px;
+        display: block;
+    }
+    .shape4{
+        display: none;
+    }
+    .shape1{
+        display: none;
+    }
+    .shape2{
+        display: none;
+    }
+    .shape3{
+        display: none;
+    }
+    .shape5{
+        display: none;
+    }
+    .shape-i{
+        display: none;
+    }
+}
+@media (min-width: 992px) and (max-width: 1300px) {
+    .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+        margin-left: 0;
+    }
+    .bannber-text h1 {
+        font-size: 55px;
+    }
+    .bannber-text p {
+        font-size: 18px;
+    }
+    a.slider-btn-two {
+        font-size: 18px;
+        padding: 10px 25px 10px 31px;
+    }
+    a.slider-btn {
+        font-size: 15px;
+        padding: 12px 17px 12px 22px;
+    }
+    .banner-slider .item {
+        padding-top: 240px;
+        padding-bottom: 200px;
+    }
+    .about-topimg img {
+        position: absolute;
+        margin-top: 15px;
+    }
+    .about-area {
+        margin-top: 140px;
+        margin-bottom: 190px;
+    }
+    .about-img {
+        margin-top: 70px;
+    }
+    .Financial-txt i {
+        position: inherit;
+        font-size: 30px;
+        text-align: center;
+        margin: auto;
+    }
+    .Financial-area {
+        text-align: center;
+        margin-top: 40px;
+    }
+    .Financial-txt h4 {
+        margin-bottom: 10px;
+        margin-top: 10px;
+        font-size: 25px;
+    }
+    .Financial-txt p {
+        font-size: 18px;
+        line-height: 25px;
+        letter-spacing: 0px;
+        margin: auto;
+    }
+    .logo-box {
+        margin-top: 100px;
+        margin-right: 0;
+        text-align: center;
+    }
+    .logo-bg {
+        padding: 0;
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .logo-pic {
+        margin-bottom: 10px;
+    }
+    .vid-icon {
+        top: 35%;
+        left: 40%;
+    }
+    .vid-text h4 {
+        font-size: 40px;
+        line-height: 30px;
+        margin-bottom: 20px;
+    }
+    .vid-text p {
+        font-size: 18px;
+        margin-bottom: 50px;
+        line-height: 30px;
+    }
+    .Brain-text h2 {
+        margin-top: 0;
+    }
+    .Brain-text h4 {
+        margin-bottom: 20px;
+        margin-top: 20px;
+        font-size: 24px;
+        line-height: 0.2em;
+        letter-spacing: -1.24px;
+    }
+    .Brain-text p {
+        font-size: 18px;
+        line-height: 25px;
+        letter-spacing: 0;
+        max-width: 359px;
+        margin: auto;
+    }
+    .together-area {
+        margin-top: 50px;
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+    .together-text h1 {
+        margin: auto;
+        font-size: 30px;
+        max-width: 440px;
+    }
+    .together-text span {
+        font-size: 18px;
+    }
+    .team-t p {
+        margin-bottom: 35px;
+    }
+    .team p {
+        font-size: 16px;
+        margin-bottom: -20px;
+    }
+    .team h4 {
+        font-size: 18px;
+        margin-top: 15px;
+        margin-bottom: 5px;
+    }
+    .team-dtl-text {
+        margin-top: 40px;
+    }
+    .team-dtl-text p {
+        font-size: 20px;
+        line-height: 30px;
+        letter-spacing: 0.76px;
+        margin-top: 20px;
+    }
+    .team-dtl-text h6 {
+        font-size: 18px;
+        margin-left: 0;
+        margin-top: 10px;
+    }
+    .team-dtl-text span {
+        margin-left: 0;
+        font-size: 14px;
+        line-height: 0px;
+    }
+    .team-dtl {
+        text-align: center;
+    }
+    .team-dtl-text img {
+        position:inherit;
+    }
+    .team-content h2 {
+        margin-bottom: 50px;
+        font-size: 40px;
+        line-height: 20px;
+        letter-spacing: -0.2px;
+    }
+    .blog-img h4 {
+        font-size: 20px;
+        line-height: 20px;
+        margin-bottom: 15px;
+    }
+    .blog-img {
+        margin-bottom: 20px;
+    }
+    .blog-img p {
+        margin: auto;
+        margin-bottom: 15px;
+    }
+    .work-text h2 {
+        font-size: 36px;
+        line-height: 40px;
+        margin-top: 20px;
+        margin-bottom: 42px;
+    }
+    .work-text span {
+        font-size: 25px;
+        line-height: 20px;;
+    }
+    .con h5 {
+        margin-top: 21px;
+    }
+    .shape4{
+        display: none;
+    }
+    .shape1{
+        display: none;
+    }
+    .shape2{
+        display: none;
+    }
+    .shape3{
+        display: none;
+    }
+    .shape5{
+        display: none;
+    }
+    .shape-i{
+        display: none;
+    }
+
+
+}
